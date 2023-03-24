@@ -1,4 +1,4 @@
 # Chess
-A primitive version of chess (No en-passant, no castling, king can be captured) made with python and pygame. 
+The classic game of chess, made with python and pygame. 
 
-I'm working on completing the rules and implementing an AI using a heuristic search tree algorithm, alpha-beta prunning, possition evaluation, and search optimization.
+I'm working on implementing an AI using a heuristic search tree algorithm, alpha-beta prunning, possition evaluation, and search optimization.
